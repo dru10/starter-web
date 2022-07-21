@@ -14,5 +14,8 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Nobody knows how to deploy.
+Made some more changes.
 
 ## How to contribute
+
+Made some changes here
