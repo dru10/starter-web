@@ -5,6 +5,8 @@ Also i will see how changes are displayed
 
 ## Introduction
 
+Some text here.
+
 ## Purpose
 
 Sample website with plenty of files for demos
