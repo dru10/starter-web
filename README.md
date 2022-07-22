@@ -18,7 +18,7 @@ Made some more changes.
 
 ## How to contribute
 
-Made some changes here
+Please fork this repository and issue pull requests for review.
 
 ## Copyright
 
