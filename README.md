@@ -19,3 +19,7 @@ Made some more changes.
 ## How to contribute
 
 Made some changes here
+
+## Copyright
+
+Horia Rusan 2022
