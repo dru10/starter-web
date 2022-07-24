@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work.
 Also i will see how changes are displayed
 Added a sentence for rebasing example
-More changes from myfeature branch too
+Updating for emergency fix
 
 ## Introduction
 
