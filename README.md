@@ -24,4 +24,4 @@ Please fork this repository and issue pull requests for review.
 
 ## Copyright
 
-Horia Rusan 2022
+Horia Rusan 2022. All rights reserved
